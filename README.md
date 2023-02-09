@@ -38,6 +38,6 @@ npm run dev
 
 - [NodeJS](https://nodejs.org/en/) - The JavaScript runtime used
 - [TypeScript](https://www.typescriptlang.org/) - The language used
-- [fs]](https://nodejs.org/api/fs.html) - The file system module used
-- [readline]](https://nodejs.org/api/readline.html) - The readline module used
-- [util]](https://nodejs.org/api/util.html) - The util module used
+- [fs](https://nodejs.org/api/fs.html) - The file system module used
+- [readline](https://nodejs.org/api/readline.html) - The readline module used
+- [util](https://nodejs.org/api/util.html) - The util module used
